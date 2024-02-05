@@ -1,12 +1,5 @@
 <html>
-  <head>
-  <style>
-    .header{
-     font-size : 200px; 
-    }
-  </style>
-  </head>
   <body>
-    <div class="header">hii this is Gokul</div>
+    <h1 font-size:500px;>hii this is Gokul</div>
   </body>
 </html>
